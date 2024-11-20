@@ -25,7 +25,6 @@
     } 
 }
 
-/* Telefonlar uchun */
 @media (max-width:1300px) {
     .vatt {
         grid-template-columns: 1fr;

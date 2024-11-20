@@ -886,10 +886,6 @@ video {
   font-weight: 600;
 }
 
-.leading-snug {
-  line-height: 1.375;
-}
-
 .text-blue-600 {
   --tw-text-opacity: 1;
   color: rgb(37 99 235 / var(--tw-text-opacity, 1));
@@ -955,8 +951,6 @@ video {
     padding: 6px 12px;
   }
 }
-
-/* Telefonlar uchun */
 
 @media (max-width:1300px) {
   .vatt {
